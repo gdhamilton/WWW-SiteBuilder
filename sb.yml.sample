@@ -1,0 +1,6 @@
+--- 
+# username / password: same as SiteBuilder control panel
+username: admin
+password: secret
+# server: hostname or IP address where SiteBuilder is installed
+server: sitebuilder.example.com
